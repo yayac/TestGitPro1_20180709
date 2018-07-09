@@ -9,5 +9,6 @@
 </head>
 <body>
 	<a href="http://www.baidu.com">百度</a>
+	<a href="http://www.souhu.com">搜狐</a>
 </body>
 </html>
